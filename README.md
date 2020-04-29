@@ -6,3 +6,6 @@ Expose the best combination for strategy games available in the AppStore in orde
 2)Identified which genres have higher user ratings.
 
 3)Identified the trend of user ratings based on pricing.
+
+Dataset has been taken from kaggles:
+https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games
